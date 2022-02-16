@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yakoobsha
 - 👀 I’m interested in coding  and programming
-- 🌱 I’m currently A student i'm student
+- 🌱 I’m currently A student i'm 15
 - 📫 How to reach me a full stack developer
 
 <!---
